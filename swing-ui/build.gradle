@@ -1,0 +1,11 @@
+plugins {
+    id 'application-config'
+}
+
+dependencies {
+    implementation project(':core')
+}
+
+application {
+    mainClass = 'org.shadowx.tictactoe.swing.ui.Application'
+}

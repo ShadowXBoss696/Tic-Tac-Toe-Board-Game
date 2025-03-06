@@ -1,0 +1,9 @@
+// Gradle Settings
+
+pluginManagement {
+    includeBuild('build-config')
+}
+
+rootProject.name = 'tic-tac-toe'
+
+include 'core', 'swing-ui'

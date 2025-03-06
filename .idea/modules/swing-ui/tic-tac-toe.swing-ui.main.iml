@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":swing-ui:main" external.linked.project.path="$MODULE_DIR$/../../../swing-ui" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="org.shadowx" external.system.module.type="sourceSet" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../swing-ui/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../swing-ui/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../swing-ui/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="tic-tac-toe.core.main" />
+  </component>
+</module>

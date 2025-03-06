@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build-config/build-config.iml" filepath="$PROJECT_DIR$/.idea/modules/build-config/build-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build-config/build-config.main.iml" filepath="$PROJECT_DIR$/.idea/modules/build-config/build-config.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/build-config/build-config.test.iml" filepath="$PROJECT_DIR$/.idea/modules/build-config/build-config.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tic-tac-toe.iml" filepath="$PROJECT_DIR$/.idea/modules/tic-tac-toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/tic-tac-toe.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/tic-tac-toe.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/tic-tac-toe.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/tic-tac-toe.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/tic-tac-toe.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/tic-tac-toe.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swing-ui/tic-tac-toe.swing-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/swing-ui/tic-tac-toe.swing-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swing-ui/tic-tac-toe.swing-ui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/swing-ui/tic-tac-toe.swing-ui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swing-ui/tic-tac-toe.swing-ui.test.iml" filepath="$PROJECT_DIR$/.idea/modules/swing-ui/tic-tac-toe.swing-ui.test.iml" />
+    </modules>
+  </component>
+</project>
