@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <em>An HTTP web server, for Python.</em>
+  <em>Tic-Tac-Toe Board Game</em>
 </p>
 
 ---
