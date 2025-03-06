@@ -15,6 +15,13 @@ public class DefaultBoard implements Board {
     private final TileMark[][] board;
 
     /**
+     * Constructs a new DefaultBoard with a 3x3 board.
+     */
+    public DefaultBoard() {
+        this(3);
+    }
+
+    /**
      * Constructs a new DefaultBoard with the specified board size.
      *
      * @param boardSize The size of the board (e.g., 3 for a 3x3 board).

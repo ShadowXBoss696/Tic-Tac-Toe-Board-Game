@@ -1,5 +1,7 @@
 package org.shadowx.tictactoe.board;
 
+import org.shadowx.tictactoe.exception.InvalidMoveException;
+
 /**
  * Represents the Tic-Tac-Toe game board.
  * Provides methods to interact with the board's tiles and their marks.
