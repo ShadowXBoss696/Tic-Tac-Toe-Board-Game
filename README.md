@@ -18,8 +18,8 @@
 
 [![Quality Assurance](https://github.com/ShadowXBoss696/Tic-Tac-Toe-Board-Game/actions/workflows/quality-assurance.yml/badge.svg?branch=develop)](https://github.com/ShadowXBoss696/Tic-Tac-Toe-Board-Game/actions/workflows/quality-assurance.yml)
 [![Sanity Suite](https://github.com/ShadowXBoss696/Tic-Tac-Toe-Board-Game/actions/workflows/sanity-suite.yml/badge.svg)](https://github.com/ShadowXBoss696/Tic-Tac-Toe-Board-Game/actions/workflows/sanity-suite.yml)
-[![Maintainability](https://qlty.sh/badges/bc57243c-c2fb-4404-bdb7-3060b172a999/maintainability.svg)](https://qlty.sh/gh/ShadowXBoss696/projects/Tic-Tac-Toe-Board-Game)
-[![Test Coverage](https://qlty.sh/badges/bc57243c-c2fb-4404-bdb7-3060b172a999/test_coverage.svg)](https://qlty.sh/gh/ShadowXBoss696/projects/Tic-Tac-Toe-Board-Game)
+[![Maintainability](https://qlty.sh/badges/852a5cf3-df0a-40be-b6e4-0cbda036f335/maintainability.svg)](https://qlty.sh/gh/ShadowXBoss696/projects/Tic-Tac-Toe-Board-Game)
+[![Test Coverage](https://qlty.sh/badges/852a5cf3-df0a-40be-b6e4-0cbda036f335/test_coverage.svg)](https://qlty.sh/gh/ShadowXBoss696/projects/Tic-Tac-Toe-Board-Game)
 [![Vulnerabilities](https://snyk.io/test/github/ShadowXBoss696/Tic-Tac-Toe-Board-Game/badge.svg)](https://snyk.io/test/github/ShadowXBoss696/Tic-Tac-Toe-Board-Game)
 
 Documentation: [Tic-Tac-Toe-Board-Game Wiki](https://github.com/ShadowXBoss696/Tic-Tac-Toe-Board-Game/wiki)
